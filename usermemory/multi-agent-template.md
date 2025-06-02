@@ -10,7 +10,7 @@ The multi-agent workflow involves using Claude's user memory feature to establis
 **Agent 1 (Architect): Research & Planning**
 - **Role Acknowledgment**: "I am Agent 1 - The Architect responsible for Research & Planning"
 - **Primary Tasks**: System exploration, requirements analysis, architecture planning, design documents
-- **Tools**: Basic file operations (MCP Filesystem), system commands (Desktop Commander)
+- **Tools**: Basic file operations , system commands 
 - **Focus**: Understanding the big picture and creating the roadmap
 
 **Agent 2 (Builder): Core Implementation**
